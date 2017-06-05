@@ -1,4 +1,6 @@
-This demonstrates how chrome and firefox differ in the weay they dispatch chrome.runtime.port.onDisconnect.
+**Tested on Mac OSX with Firefox 53.0.3 and Firefox Nightly 55.0a1**
+
+This demonstrates how chrome and firefox differ in the way they dispatch chrome.runtime.port.onDisconnect.
 
 * Chrome dispatches port.onDisconnect on EVERY page navigation
 
